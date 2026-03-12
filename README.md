@@ -1,13 +1,16 @@
 <h1 align="center">Hi, I'm Vaibhav Kumar 👋</h1>
 
 <p align="center">
-  <em>Computer Science & Engineering Senior &nbsp;·&nbsp; ML / Computer Vision / Robotics &nbsp;·&nbsp; Full-Stack Developer</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=CS+%26+Engineering+Senior;ML+%7C+Computer+Vision+%7C+Robotics;Full-Stack+Developer;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vaibhav-kumar-10">
     <img src="https://komarev.com/ghpvc/?username=vaibhav-kumar-10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
+  &nbsp;
   <a href="https://github.com/Battlegrounds-Development">
     <img src="https://img.shields.io/badge/org-Battlegrounds--Development-blueviolet?style=flat&logo=github" alt="Battlegrounds-Development org" />
   </a>
@@ -68,37 +71,27 @@ Beyond applied ML, I've built full-stack applications using modern web technolog
 ### 🎯 [iFocus](https://github.com/vaibhav-kumar-10/iFocus) — AI-Powered Student Focus Monitor
 > *Python · Flask · OpenAI GPT · WebGazer · SQLite*
 
-A full-stack web app (HCI final group project) that uses **eye-tracking technology** to monitor student focus and engagement in real time. Teachers can assign readings or videos, view aggregated attention heatmaps across students, and receive AI-generated insights powered by GPT-4. Students get personalized feedback on their focus patterns.
-
----
+A full-stack web app that uses **eye-tracking technology** to monitor student focus and engagement in real time. Teachers can assign readings or videos, view aggregated attention heatmaps across students, and receive AI-generated insights powered by GPT-4. Students get personalized feedback on their focus patterns.
 
 ### 📈 [Paper Stock Trader](https://github.com/vaibhav-kumar-10/cse-108-final-project) — Simulated Stock Trading Platform
 > *React · Flask · SQLAlchemy · JWT*
 
 A full-stack paper trading platform where users can search stocks by ticker, view interactive price charts across multiple timeframes, simulate buy/sell trades, and track their portfolio in real time. Features secure JWT authentication and a clean, responsive UI. [Live demo →](https://papertrader.mooo.com/)
 
----
-
 ### 🔗 [Blockchain Platform](https://github.com/vaibhav-kumar-10/Blockchain-Platform) — Blockchain from Scratch
 > *Python · Full-Stack*
 
 A full-stack project built to deeply understand how blockchains work — covering blocks, hashing, chain validation, and distributed ledger fundamentals from first principles.
-
----
 
 ### 🤖 [VSCode RAG Agent](https://github.com/vaibhav-kumar-10/vscode-rag-agent) — AI Coding Assistant
 > *Python · RAG · Vector Database*
 
 An AI agent integrated into VS Code that uses **Retrieval-Augmented Generation (RAG)** to provide context-aware code assistance by indexing a codebase and answering natural-language questions about it.
 
----
-
 ### 🧠 [MNIST Study](https://github.com/vaibhav-kumar-10/mnist-study) — Deep Learning from Scratch
 > *Python · PyTorch*
 
 A hands-on deep learning project exploring the MNIST handwritten digit dataset. Implements a custom training engine, data loader, and multiple model architectures to study neural network fundamentals end-to-end.
-
----
 
 ### ♟️ [Chess Game](https://github.com/vaibhav-kumar-10/ChessGame) — Feature-Rich Chess App
 > *Java · Swing*
@@ -109,9 +102,7 @@ A fully functional chess application built in Java with a Swing-based GUI. Suppo
 
 ## ⚔️ Battlegrounds-Development — Minecraft Server Ecosystem
 
-I founded and maintain **[Battlegrounds-Development](https://github.com/Battlegrounds-Development)**, a solo-maintained open-source organization building a suite of modular, high-performance **Spigot plugins** for an extraction-style Minecraft server (`play.bgsmc.us`).
-
-The project spans multiple production Java codebases with a focus on modular architecture and scalability:
+I founded and solo-maintain **[Battlegrounds-Development](https://github.com/Battlegrounds-Development)**, an open-source organization building a suite of modular, high-performance **Spigot plugins** for an extraction-style Minecraft server (`play.bgsmc.us`). The project spans multiple production Java codebases with a focus on modular architecture and scalability:
 
 | Plugin | Description |
 |---|---|
@@ -132,6 +123,14 @@ The project spans multiple production Java codebases with a focus on modular arc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kumar-10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kumar-10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-kumar-10&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
+</p>
+
 ---
 
 ## 📫 Let's Connect!
@@ -142,6 +141,7 @@ I'm always open to chatting about engineering, open-source, or new opportunities
   <a href="https://github.com/vaibhav-kumar-10">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://github.com/Battlegrounds-Development">
     <img src="https://img.shields.io/badge/Battlegrounds--Development-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Battlegrounds-Development" />
   </a>
